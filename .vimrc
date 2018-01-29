@@ -74,12 +74,6 @@ colorscheme pychimp
 " Showcase comments in italics
 highlight Comment cterm=italic gui=italic
 
-" Get off my lawn - helpful when learning Vim :)
-nnoremap <Left> 
-nnoremap <Right> 
-nnoremap <Up> 
-nnoremap <Down> 
-
 "-------------------------------------------------------------------------------
 " Neovim-specific configurations
 "-------------------------------------------------------------------------------
